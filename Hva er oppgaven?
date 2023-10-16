@@ -4,15 +4,15 @@ Vi besvarer annet hvert spørsmål, Wishai begynner med de to første.
 
 Karina tar følgende steg uthevet, Wishai i kursiv.
 
-* 1. Man kan klikke på Nameless knight, The Cat og Julia the archer for å angripe monstrene. (Wishai)
-* 2. Man gjør 1 angrep ved å klikke på Nameless knight, The Cat eller Julia, og Big Boss gjør umiddelbart et angrep tilbake på en av de 3 heltene; det skal være tilfeldig hvem av dem Big Boss angriper. (Wishai)
-* 3. Noen ganger (med sannsynlighet på 25%) etter at man har gjort et angrep vil en Slime eller Bat dukke opp (ref. img med id appearing-monster). (Karina)
-* 4. Alle angrep skal ta en tilfeldig mengde hp; bruk Math.random-teknikken. (Karina)
-* 5. Når Slime eller Bat har dukket opp kan de 3 heltene kun angripe Slime eller Bat. De angriper ikke tilbake, men de forhindrer heltene fra å kunne angripe Big Boss. Big Boss fortsetter å angripe som vanlig mens Slime eller Bat er der. (Wishai)
-* 6. Nameless knight greier kun å ta liv av Big Boss (Wishai)
-* 7. Julia the archer greier kun å ta liv av Bat (Karina) 
-* 8. The Cat greier kun å ta liv av Slime (Karina)
-* 9. Alle angrep må skrives ut. Alle utskrifter må inkludere hvor mye hp som er tatt, eksempelvis «Big boss angriper Julia, og Julia mister 20hp ». (Wishai/Karina)
+* 1. Man kan klikke på Nameless knight, The Cat og Julia the archer for å angripe monstrene.
+* 2. Man gjør 1 angrep ved å klikke på Nameless knight, The Cat eller Julia, og Big Boss gjør umiddelbart et angrep tilbake på en av de 3 heltene; det skal være tilfeldig hvem av dem Big Boss angriper. 
+* 3. Noen ganger (med sannsynlighet på 25%) etter at man har gjort et angrep vil en Slime eller Bat dukke opp (ref. img med id appearing-monster). 
+* 4. Alle angrep skal ta en tilfeldig mengde hp; bruk Math.random-teknikken. 
+* 5. Når Slime eller Bat har dukket opp kan de 3 heltene kun angripe Slime eller Bat. De angriper ikke tilbake, men de forhindrer heltene fra å kunne angripe Big Boss. Big Boss fortsetter å angripe som vanlig mens Slime eller Bat er der. 
+* 6. Nameless knight greier kun å ta liv av Big Boss 
+* 7. Julia the archer greier kun å ta liv av Bat 
+* 8. The Cat greier kun å ta liv av Slime 
+* 9. Alle angrep må skrives ut. Alle utskrifter må inkludere hvor mye hp som er tatt, eksempelvis «Big boss angriper Julia, og Julia mister 20hp ». 
 
 Hp barer må forandres. Endre skriften. 
 Vi bruker Onedrive, og oppdaterer dokumentet vårt etterhvert.
