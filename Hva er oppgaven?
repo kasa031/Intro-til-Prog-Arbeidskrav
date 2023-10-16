@@ -1,8 +1,4 @@
-Javascript notater fra Intro til Prog, Arbeidskrav
-
-Vi besvarer annet hvert spørsmål, Wishai begynner med de to første.
-
-Karina tar følgende steg uthevet, Wishai i kursiv.
+Javascript notater fra Intro til Programmering
 
 * 1. Man kan klikke på Nameless knight, The Cat og Julia the archer for å angripe monstrene.
 * 2. Man gjør 1 angrep ved å klikke på Nameless knight, The Cat eller Julia, og Big Boss gjør umiddelbart et angrep tilbake på en av de 3 heltene; det skal være tilfeldig hvem av dem Big Boss angriper. 
@@ -14,6 +10,3 @@ Karina tar følgende steg uthevet, Wishai i kursiv.
 * 8. The Cat greier kun å ta liv av Slime 
 * 9. Alle angrep må skrives ut. Alle utskrifter må inkludere hvor mye hp som er tatt, eksempelvis «Big boss angriper Julia, og Julia mister 20hp ». 
 
-Hp barer må forandres. Endre skriften. 
-Vi bruker Onedrive, og oppdaterer dokumentet vårt etterhvert.
-//Create a new file like this Karina
